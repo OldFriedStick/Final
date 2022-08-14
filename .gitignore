@@ -1,0 +1,8 @@
+.*
+!.gitignore
+workspace.sln
+imgtool/
+ReleaseG5/
+galaxy_sdk/*
+!galaxy_sdk/*.*
+
