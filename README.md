@@ -1,3 +1,4 @@
+[BUG:ISR中使用vpi_event_notify](https://github.com/OldFriedStick/Final/issues/1)
 # 实验笔记
 
 ## LOD检测穿戴的原理
